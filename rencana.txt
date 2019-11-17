@@ -4,3 +4,4 @@
   * Lanjut ke Android Studio Kalau Sanggup
 - Lalu kemudian belajar Phyton
 - Lanjut ke Machine Learning
+- Setelah itu Pahami Konsep AI
