@@ -1,0 +1,5 @@
+- Mendalami Java dengan ilmu Pasti
+  * Memperdalam Java == MySQL
+- Melihat bayangan Java untuk kedepan
+- Lalu kemudian belajar Phyton
+- Lanjut ke Machine Learning
