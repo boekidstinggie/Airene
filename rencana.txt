@@ -5,3 +5,4 @@
 - Lalu kemudian belajar Phyton
 - Lanjut ke Machine Learning
 - Pahami Konsep Hormon mempengaruhi Emotional Manusia yang berimpact pada Intellegence seseorang
+- Setelah itu Pahami Konsep AI
