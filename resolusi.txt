@@ -3,4 +3,4 @@ Resolusi
 - Membuat A I R E N E secara bertahap meski arti dari sana belum di ketahui
 - Teman yang Berminat memang sedikit/tidak ada, tapi buat aj dulukan,
 - Belajar Java belum kelar, sekarang malah ke Python :v
-- 
+- Machine Larning pada Kamera
